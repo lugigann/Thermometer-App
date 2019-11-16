@@ -10,4 +10,7 @@ class Thermometer():
         pass
     def to_celsius(self):
         pass
+    def to_fahrenheit(self):
+        pass
+    
 
