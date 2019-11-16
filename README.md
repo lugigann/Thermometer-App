@@ -1,4 +1,4 @@
-# Tehermometre Application
+# Thermometre Application
 # get_temp
 # set_temp
 # to_celsius
